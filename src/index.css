@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.show{
+  font-size: 30px;
+}
+.hide{
+  font-size: 0;
+}
+.remove{
+  visibility: hidden;
+}

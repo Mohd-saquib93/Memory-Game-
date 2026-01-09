@@ -95,7 +95,7 @@ const App = () => {
           <h1 className='font-bold text-4xl mt-10'>You Won The Game!</h1>
           <button onClick={handleStart}
           className='border-1 p-3 bg-purple-900 text-white rounded-[10px] text-xl mt-10'
-          >Play Again</button>
+          > Play Again </button>
         </div>
       }
     </div>

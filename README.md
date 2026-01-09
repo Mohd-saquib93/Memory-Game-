@@ -25,6 +25,5 @@ This project demonstrates React state management, game logic, and conditional re
 - **JavaScript (ES6+)**
 - **CSS / Tailwind CSS**
 
----
 
 

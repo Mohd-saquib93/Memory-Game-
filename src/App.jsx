@@ -6,7 +6,7 @@ const getNums = ()=>{
     list.push(i);
     list.push(i);
   }
-  return list;
+      return list;
 }
 
 const App = () => {
